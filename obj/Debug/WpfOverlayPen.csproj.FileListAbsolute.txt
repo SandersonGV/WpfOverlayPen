@@ -1,0 +1,169 @@
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Debug\WpfOverlayPen.exe.config
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Debug\WpfOverlayPen.exe
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Debug\WpfOverlayPen.pdb
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+\\10.1.1.72\Users\Sanderson\Desktop\unesa\WpfOverlayPen.exe.config
+\\10.1.1.72\Users\Sanderson\Desktop\unesa\WpfOverlayPen.exe
+\\10.1.1.72\Users\Sanderson\Desktop\unesa\WpfOverlayPen.pdb
+\\BLACKSTAR\Users\Sanderson\Desktop\unesa\WpfOverlayPen.exe.config
+\\BLACKSTAR\Users\Sanderson\Desktop\unesa\WpfOverlayPen.exe
+\\BLACKSTAR\Users\Sanderson\Desktop\unesa\WpfOverlayPen.pdb
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Degug\WpfOverlayPen.exe.config
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Degug\WpfOverlayPen.exe
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Degug\WpfOverlayPen.pdb
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Degug\Info3Register.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Degug\LogicNP.CryptoLicensing.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Degug\Microsoft.Expression.Interactions.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Degug\System.Windows.Interactivity.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Degug\Info3Register.pdb
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Degug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Degug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Degug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Degug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Degug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Degug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Degug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Degug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Degug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Degug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Degug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Degug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Degug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Degug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Degug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Degug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Degug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Degug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Degug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\bin\Degug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\obj\Debug\MainWindow.baml
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\obj\Debug\ResourceDictionary1.baml
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\obj\Debug\App.baml
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\obj\Debug\MainWindow.g.cs
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\obj\Debug\App.g.cs
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\obj\Debug\WpfOverlayPen_MarkupCompile.cache
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\obj\Debug\WpfOverlayPen.g.resources
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\obj\Debug\WpfOverlayPen.Properties.Resources.resources
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\obj\Debug\WpfOverlayPen.csproj.GenerateResource.Cache
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\obj\Debug\WpfOverlayPen.exe
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\obj\Debug\WpfOverlayPen.pdb
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe\WpfOverlayPen\obj\Debug\WpfOverlayPen.csprojResolveAssemblyReference.cache
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\WpfOverlayPen.exe.config
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\WpfOverlayPen.exe
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\WpfOverlayPen.pdb
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\Info3Register.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\LogicNP.CryptoLicensing.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\Microsoft.Expression.Interactions.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\System.Windows.Interactivity.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\Info3Register.pdb
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\obj\Debug\MainWindow.baml
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\obj\Debug\ResourceDictionary1.baml
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\obj\Debug\App.baml
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\obj\Debug\MainWindow.g.cs
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\obj\Debug\App.g.cs
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\obj\Debug\WpfOverlayPen_MarkupCompile.cache
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\obj\Debug\WpfOverlayPen.g.resources
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\obj\Debug\WpfOverlayPen.Properties.Resources.resources
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\obj\Debug\WpfOverlayPen.csproj.GenerateResource.Cache
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\obj\Debug\WpfOverlayPen.exe
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\obj\Debug\WpfOverlayPen.pdb
+C:\Users\Sanderson\Desktop\Projetos\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\obj\Debug\WpfOverlayPen.csprojResolveAssemblyReference.cache
+C:\Users\San\Documents\San\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\WpfOverlayPen.exe.config
+C:\Users\San\Documents\San\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\WpfOverlayPen.exe
+C:\Users\San\Documents\San\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\WpfOverlayPen.pdb
+C:\Users\San\Documents\San\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\Info3Register.dll
+C:\Users\San\Documents\San\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\LogicNP.CryptoLicensing.dll
+C:\Users\San\Documents\San\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\Microsoft.Expression.Interactions.dll
+C:\Users\San\Documents\San\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\System.Windows.Interactivity.dll
+C:\Users\San\Documents\San\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\Info3Register.pdb
+C:\Users\San\Documents\San\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\San\Documents\San\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\San\Documents\San\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\San\Documents\San\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\San\Documents\San\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\San\Documents\San\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\San\Documents\San\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\San\Documents\San\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\San\Documents\San\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\San\Documents\San\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\San\Documents\San\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\de\System.Windows.Interactivity.resources.dll
+C:\Users\San\Documents\San\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\en\System.Windows.Interactivity.resources.dll
+C:\Users\San\Documents\San\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\es\System.Windows.Interactivity.resources.dll
+C:\Users\San\Documents\San\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\San\Documents\San\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\it\System.Windows.Interactivity.resources.dll
+C:\Users\San\Documents\San\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\San\Documents\San\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\San\Documents\San\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\San\Documents\San\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\San\Documents\San\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\bin\Degug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\San\Documents\San\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\obj\Debug\MainWindow.baml
+C:\Users\San\Documents\San\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\obj\Debug\ResourceDictionary1.baml
+C:\Users\San\Documents\San\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\obj\Debug\App.baml
+C:\Users\San\Documents\San\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\obj\Debug\MainWindow.g.cs
+C:\Users\San\Documents\San\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\obj\Debug\App.g.cs
+C:\Users\San\Documents\San\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\obj\Debug\WpfOverlayPen_MarkupCompile.cache
+C:\Users\San\Documents\San\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\obj\Debug\WpfOverlayPen.g.resources
+C:\Users\San\Documents\San\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\obj\Debug\WpfOverlayPen.Properties.Resources.resources
+C:\Users\San\Documents\San\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\obj\Debug\WpfOverlayPen.csproj.GenerateResource.Cache
+C:\Users\San\Documents\San\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\obj\Debug\WpfOverlayPen.exe
+C:\Users\San\Documents\San\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\obj\Debug\WpfOverlayPen.pdb
+C:\Users\San\Documents\San\Visual Studio 2013\UNESAWireframe 2\WpfOverlayPen\obj\Debug\WpfOverlayPen.csprojResolveAssemblyReference.cache
+D:\projetos\unigram 2018\UNIGRANWireframe\WpfOverlayPen\bin\Degug\WpfOverlayPen.exe.config
+D:\projetos\unigram 2018\UNIGRANWireframe\WpfOverlayPen\bin\Degug\WpfOverlayPen.exe
+D:\projetos\unigram 2018\UNIGRANWireframe\WpfOverlayPen\bin\Degug\WpfOverlayPen.pdb
+D:\projetos\unigram 2018\UNIGRANWireframe\WpfOverlayPen\bin\Degug\Info3Register.dll
+D:\projetos\unigram 2018\UNIGRANWireframe\WpfOverlayPen\bin\Degug\LogicNP.CryptoLicensing.dll
+D:\projetos\unigram 2018\UNIGRANWireframe\WpfOverlayPen\obj\Debug\MainWindow.baml
+D:\projetos\unigram 2018\UNIGRANWireframe\WpfOverlayPen\obj\Debug\ResourceDictionary1.baml
+D:\projetos\unigram 2018\UNIGRANWireframe\WpfOverlayPen\obj\Debug\App.baml
+D:\projetos\unigram 2018\UNIGRANWireframe\WpfOverlayPen\obj\Debug\MainWindow.g.cs
+D:\projetos\unigram 2018\UNIGRANWireframe\WpfOverlayPen\obj\Debug\App.g.cs
+D:\projetos\unigram 2018\UNIGRANWireframe\WpfOverlayPen\obj\Debug\WpfOverlayPen_MarkupCompile.cache
+D:\projetos\unigram 2018\UNIGRANWireframe\WpfOverlayPen\obj\Debug\WpfOverlayPen.g.resources
+D:\projetos\unigram 2018\UNIGRANWireframe\WpfOverlayPen\obj\Debug\WpfOverlayPen.Properties.Resources.resources
+D:\projetos\unigram 2018\UNIGRANWireframe\WpfOverlayPen\obj\Debug\WpfOverlayPen.csproj.GenerateResource.Cache
+D:\projetos\unigram 2018\UNIGRANWireframe\WpfOverlayPen\obj\Debug\WpfOverlayPen.csproj.CoreCompileInputs.cache
+D:\projetos\unigram 2018\UNIGRANWireframe\WpfOverlayPen\obj\Debug\WpfOverlayPen.exe
+D:\projetos\unigram 2018\UNIGRANWireframe\WpfOverlayPen\obj\Debug\WpfOverlayPen.pdb
+D:\projetos\unigram 2018\UNIGRANWireframe\WpfOverlayPen\obj\Debug\WpfOverlayPen.csprojResolveAssemblyReference.cache

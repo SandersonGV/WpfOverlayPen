@@ -1,0 +1,100 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity" xmlns:ei="http://schemas.microsoft.com/expression/2010/interactions" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="WpfOverlayPen.MainWindow"
+        Title="MainWindow" Height="646.523" Width="760.055" WindowStyle="None" Topmost="True"  AllowsTransparency="True" Background="{x:Null}"
+        ShowInTaskbar="False" Icon="Images/desenhar.png" IsManipulationEnabled="True"
+    >
+    <Window.CacheMode>
+        <BitmapCache EnableClearType="True" SnapsToDevicePixels="True"/>
+    </Window.CacheMode>
+    <Grid >
+        <InkCanvas x:Name="paintboard" Background="#0FFFFFFF"  />
+        <Rectangle x:Name="btnlivre" Width="64" Height="64" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="-657,-18,0,0" RenderTransformOrigin="0.5,0.5" Visibility="Hidden" >
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="Images/lapis.png" Stretch="Uniform"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle x:Name="btnquadrado" Width="64" Height="64"  VerticalAlignment="Top" HorizontalAlignment="Left" Margin="-722,81,0,-81" Visibility="Hidden"  >
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="Images/retangulo.png" Stretch="Uniform"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle x:Name="btnSair" Width="64" Height="64"  VerticalAlignment="Top" HorizontalAlignment="Left" Margin="-668,265,0,-265" Visibility="Hidden"  >
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="Images/sair.png" Stretch="Uniform"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle x:Name="btncirculo" Width="64" Height="64"  VerticalAlignment="Top" HorizontalAlignment="Left" Margin="-828,21,0,-21" Visibility="Hidden"  >
+            <Rectangle.Fill>
+                <ImageBrush Stretch="Uniform" ImageSource="Images/circulo.png"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle x:Name="btnLine" Width="64" Height="64"  VerticalAlignment="Top" HorizontalAlignment="Left" Margin="-798,172,0,-172" Visibility="Hidden"  >
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="Images/reta.png" Stretch="Uniform"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle x:Name="btnconfig" Width="64" Height="64"  VerticalAlignment="Top" HorizontalAlignment="Left" Margin="-810,297,0,-297" Visibility="Hidden" >
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="Images/config.png" Stretch="Uniform"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle x:Name="btnapagar" Width="64" Height="64"  VerticalAlignment="Top" HorizontalAlignment="Left" Margin="-810,413,0,-413" Visibility="Hidden"  >
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="Images/apagar.png" Stretch="Uniform"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle x:Name="btnvoltar" Width="64" Height="64" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="-655,413,0,-413" Visibility="Hidden"  >
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="Images/voltar.png" Stretch="Uniform"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle x:Name="btnactv" Width="64" Height="64" Margin="0" HorizontalAlignment="Left" VerticalAlignment="Top" >
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="Images/desenhar.png" Stretch="Uniform"/>
+            </Rectangle.Fill>
+
+        </Rectangle>
+
+        <Border x:Name="configwin" BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="250"  VerticalAlignment="Center" Width="400" Margin="-613.876,251,0,-437" UseLayoutRounding="False" CornerRadius="20" Visibility="Visible">
+            <Border.Background>
+                <ImageBrush ImageSource="Images/configwin.png"/>
+            </Border.Background>
+            <Grid>
+                <Label Content="Espessura" HorizontalAlignment="Left" Margin="292,45,0,0" VerticalAlignment="Top"/>
+                <Label Content="Opacidade" HorizontalAlignment="Left" Margin="290,93,0,0" VerticalAlignment="Top"/>
+                <Ellipse x:Name="btnVermelho" Fill="Red" HorizontalAlignment="Left" Height="45"  VerticalAlignment="Top" Width="36" Margin="29,44,0,0" MouseLeftButtonUp="Ellipse_MouseLeftButtonUp" StylusUp="Ellipse_StylusUp"/>
+                <Ellipse x:Name="btnVerde" Fill="Lime" HorizontalAlignment="Left" Height="45"  VerticalAlignment="Top" Width="36" Margin="36,104,0,0" MouseLeftButtonUp="Ellipse_MouseLeftButtonUp" StylusUp="Ellipse_StylusUp"/>
+                <Ellipse x:Name="btnAzul" Fill="Blue" HorizontalAlignment="Left" Height="45"  VerticalAlignment="Top" Width="36" Margin="77,156,0,0" MouseLeftButtonUp="Ellipse_MouseLeftButtonUp" StylusUp="Ellipse_StylusUp"/>
+                <Ellipse x:Name="btnAmarelo" Fill="Yellow" HorizontalAlignment="Left" Height="45"  VerticalAlignment="Top" Width="36" Margin="132,177,0,0" MouseLeftButtonUp="Ellipse_MouseLeftButtonUp" StylusUp="Ellipse_StylusUp"/>
+                <Ellipse x:Name="btnPreto" Fill="Black" HorizontalAlignment="Left" Height="45"  VerticalAlignment="Top" Width="36" Margin="182,140,0,0" MouseLeftButtonUp="Ellipse_MouseLeftButtonUp" StylusUp="Ellipse_StylusUp"/>
+                <Grid Margin="260,134,10,10">
+                    <Ellipse x:Name="demoball" Height="100" Width="100" Fill="White" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                </Grid>
+                <Button x:Name="minusopacidade" Content="Button" HorizontalAlignment="Left" Margin="255,84,0,0" VerticalAlignment="Top" Width="40" BorderBrush="{x:Null}" Foreground="{x:Null}" Style="{DynamicResource btnMenuStyle}" Height="40" Click="Minusopacidade_Click" StylusDown="Minusopacidade_StylusDown">
+                    <Button.Background>
+                        <ImageBrush ImageSource="Images/diminuir.png" Stretch="UniformToFill"/>
+                    </Button.Background>
+                </Button>
+                <Button x:Name="btnplusopacidade" Content="Button" HorizontalAlignment="Left" Margin="354,84,0,0" VerticalAlignment="Top" Width="40" BorderBrush="{x:Null}" Foreground="{x:Null}" Style="{DynamicResource btnMenuStyle}" Height="40" Click="Btnplusopacidade_Click" StylusDown="Btnplusopacidade_StylusDown">
+                    <Button.Background>
+                        <ImageBrush ImageSource="Images/aumentar.png" Stretch="UniformToFill"/>
+                    </Button.Background>
+                </Button>
+                <Button x:Name="minusespessura" Content="Button" HorizontalAlignment="Left" Margin="255,37,0,0" VerticalAlignment="Top" Width="40" BorderBrush="{x:Null}" Foreground="{x:Null}" Style="{DynamicResource btnMenuStyle}" Height="40" Click="Minusespessura_Click" StylusDown="Minusespessura_StylusDown">
+                    <Button.Background>
+                        <ImageBrush ImageSource="Images/diminuir.png" Stretch="UniformToFill"/>
+                    </Button.Background>
+                </Button>
+                <Button x:Name="btnplusespessura" Content="Button" HorizontalAlignment="Left" Margin="354,37,0,0" VerticalAlignment="Top" Width="40" BorderBrush="{x:Null}" Foreground="{x:Null}" Style="{DynamicResource btnMenuStyle}" Height="40" Click="Btnplusespessura_Click" StylusDown="Btnplusespessura_StylusDown">
+                    <Button.Background>
+                        <ImageBrush ImageSource="Images/aumentar.png" Stretch="UniformToFill"/>
+                    </Button.Background>
+                </Button>
+
+            </Grid>
+        </Border>
+
+    </Grid>
+</Window>
